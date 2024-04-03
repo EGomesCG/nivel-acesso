@@ -1,0 +1,13 @@
+.form-group{
+    display: flex;
+    flex-direction: column;
+    min-width: 500px;
+    padding: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    min-width: 600px;
+    justify-content: center;
+    align-items: center;
+}
